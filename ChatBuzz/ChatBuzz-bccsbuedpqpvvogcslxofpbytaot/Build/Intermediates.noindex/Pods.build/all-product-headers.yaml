@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/flashmac2/Desktop/ChatBuzz/ChatBuzz/ChatBuzz-bccsbuedpqpvvogcslxofpbytaot/Build/Products/Debug-iphoneos/Pods_ChatBuzz.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-ChatBuzz-umbrella.h",
+          'external-contents': "/Users/flashmac2/Desktop/ChatBuzz/Pods/Target Support Files/Pods-ChatBuzz/Pods-ChatBuzz-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_ChatBuzz-Swift.h",
+          'external-contents': "/Users/flashmac2/Desktop/ChatBuzz/ChatBuzz/ChatBuzz-bccsbuedpqpvvogcslxofpbytaot/Build/Products/Debug-iphoneos/Pods_ChatBuzz.framework/Headers/Pods_ChatBuzz-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/flashmac2/Desktop/ChatBuzz/ChatBuzz/ChatBuzz-bccsbuedpqpvvogcslxofpbytaot/Build/Products/Debug-iphoneos/Pods_ChatBuzz.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/flashmac2/Desktop/ChatBuzz/ChatBuzz/ChatBuzz-bccsbuedpqpvvogcslxofpbytaot/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-ChatBuzz.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

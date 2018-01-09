@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "e993899ea69c83c05a9789524b757a3c"
+build_time: [1513054230, 953960000]
+inputs:
+  "/Users/flashmac2/Desktop/ChatBuzz/ChatBuzz/ViewControllers/OTPViewController.swift": [1512966368, 0]
+  "/Users/flashmac2/Desktop/ChatBuzz/ChatBuzz/ViewControllers/LoginViewController.swift": [1512973081, 0]
+  "/Users/flashmac2/Desktop/ChatBuzz/ChatBuzz/ViewControllers/HomePageViewController.swift": [1512970087, 0]
+  "/Users/flashmac2/Desktop/ChatBuzz/ChatBuzz/AppDelegate.swift": [1512968107, 0]
